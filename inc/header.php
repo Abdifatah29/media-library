@@ -9,7 +9,7 @@
 
 		<div class="wrapper">
 
-			<h1 class="branding-title"><a href="./">Personal Media Library</a></h1>
+			<h1 class="branding-title"><a href="./"><?php echo "Personal Media Library";?></a></h1>
 
 			<ul class="nav">
                 <li class="books"><a href="catalog.php?cat=books">Books</a></li>
